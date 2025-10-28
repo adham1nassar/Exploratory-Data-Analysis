@@ -26,7 +26,7 @@ This project performs a complete **Exploratory Data Analysis (EDA)** on the clas
   - First-class passengers had the highest survival rates due to proximity to lifeboats and better access.  
   - Third-class passengers, mostly located on the lower decks, faced the highest fatality rates.
 
-    ![Survival Rate by Passenger Class](../assets/survival-rate-by-passenger-class.png "Survival Rate by Passenger Class")
+    ![Survival Rate by Passenger Class](../assets/titanic/survival-rate-by-passenger-class.png "Survival Rate by Passenger Class")
          *Figure: Survival Rate by Passenger Class.*
 
 - **Gender (Sex):**  
@@ -34,29 +34,29 @@ This project performs a complete **Exploratory Data Analysis (EDA)** on the clas
   - Around 75% of females survived compared to roughly 20% of males.  
   - This reflects the “women and children first” evacuation policy followed during the disaster.
 
-    ![Survival Rate by Gender](../assets/survival-rate-by-gender.png "Survival Rate by Gender")
+    ![Survival Rate by Gender](../assets/titanic/survival-rate-by-gender.png "Survival Rate by Gender")
          *Figure: Survival Rate by Gender.*
 
 - **Age:**  
   - Younger passengers—especially children under 10—had higher survival rates.  
   - Elderly passengers (above 50) faced much lower chances of survival, possibly due to physical limitations during evacuation.
 
-  ![Age Distribution by Survival](../assets/age-distribution-by-survival.png "Age Distribution by Survival")
+  ![Age Distribution by Survival](../assets/titanic/age-distribution-by-survival.png "Age Distribution by Survival")
      *Figure: Age Distribution by Survival.*
-  ![Survival Rate by Age Group](../assets/Survival_Rate_by_AgeGroup.png "Survival Rate by Age Group")
+  ![Survival Rate by Age Group](../assets/titanic/Survival_Rate_by_AgeGroup.png "Survival Rate by Age Group")
     *Figure: Survival Rate by Age Group.*
 
 - **Family Size:**  
   - Passengers traveling with small families (2–4 members) had better survival odds.  
   - Those alone or in large groups (>5 members) were less likely to survive, possibly due to difficulties in coordination and rescue.
 
-    ![Survival Rate by Family Size](../assets/survival-rate-by-family-size.png "Survival Rate by Family Size")
+    ![Survival Rate by Family Size](../assets/titanic/survival-rate-by-family-size.png "Survival Rate by Family Size")
          *Figure: Survival Rate by Family Size.*
 
 - **Embarkation Port (Embarked):**  
   - Passengers who boarded from Cherbourg (C) showed slightly better survival rates, likely linked to a higher proportion of first-class travelers.
 
-    ![Survival Rate by Embarkation Port](../assets/survival-rate-by-embarkation-port.png "Survival Rate by Embarkation Port")
+    ![Survival Rate by Embarkation Port](../assets/titanic/survival-rate-by-embarkation-port.png "Survival Rate by Embarkation Port")
          *Figure: Survival Rate by Embarkation Port.*
 
 - **Overall Pattern:**  
