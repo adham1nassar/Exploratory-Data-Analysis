@@ -59,7 +59,7 @@ Several plots were created to explore data distributions and relationships:
 
   - `MasVnrArea` revealed that most homes had little to no masonry veneer.  
 
-        ![MasVnrArea Distributions](../assets/house_pricing/MasVnrArea_Distributions.png "MasVnrArea Distributions")
+      ![MasVnrArea Distributions](../assets/house_pricing/MasVnrArea_Distributions.png "MasVnrArea Distributions")
               *Figure: MasVnrArea Distributions.*
 
 
@@ -67,8 +67,8 @@ Several plots were created to explore data distributions and relationships:
   - A heatmap and bar plot were used to visualize **correlation with `SalePrice`**.  
   - Key positive correlations included `OverallQual`, `GrLivArea`, `GarageCars`, and `TotalBsmtSF`.  
   - Negative correlations were found in `KitchenAbvGr` and the engineered `Age` feature.  
-
-        ![Correlation with SalePrice](../assets/house_pricing/Correlation_with_SalePrice.png "Correlation with SalePrice")
+    
+     ![Correlation with SalePrice](../assets/house_pricing/Correlation_with_SalePrice.png "Correlation with SalePrice")
               *Figure: Correlation with SalePrice.*
 
 
