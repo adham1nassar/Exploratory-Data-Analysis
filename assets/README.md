@@ -11,5 +11,6 @@ This folder contains all the **datasets, images, and supporting files** used in 
 - [House Prices – Cleaning and Analysis](../house-prices-cleaning-and-analysis)  
 - [Uber Trip Data Analysis](../exploratory-data-analysis-on-uber-trip-data)  
 - [Titanic Data Analysis](../exploratory-data-analysis-on-the-titanic-dataset)
+- [HR Data Analysis](../exploratory-data-analysis-HR-dataset)
 
 
