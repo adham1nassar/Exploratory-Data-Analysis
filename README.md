@@ -30,6 +30,24 @@ This repo contains three self-contained notebooks (each in its own folder). Belo
 * Visualized trends (time-series & heatmaps) and summarized location/activity hotspots.
 * Provided a compact, data-driven overview of usage behavior.
 
+
+## 4) Employee Attrition Analysis — Data Cleaning, EDA & Excel Dashboard
+
+* Performed **comprehensive data cleaning**, removing redundant and calculated fields to simplify HR data.
+* Converted key categorical fields (e.g., `Attrition`, `Age`, `JobRole`) into consistent formats for analysis.
+* Explored **attrition patterns** across:
+
+  * Gender, Age Group, Department, and Education Field
+  * Business Travel Frequency, Job Satisfaction, Job Level, and Total Working Years
+* Built **correlation analysis** to identify strongest retention and attrition drivers.
+* Created an **interactive Excel dashboard** summarizing:
+
+  * Key KPIs (total employees, attrition rate, average age/income)
+  * Demographic insights (gender, age distribution)
+  * Attrition by role, department, and work conditions
+  * Correlation between numerical features and attrition
+* Concluded that **younger, early-career, and frequently traveling employees** are most likely to leave, while **experience, tenure, and fair pay** improve retention.
+
 ---
 
 ### Tools & Techniques (across projects)
@@ -39,4 +57,4 @@ This repo contains three self-contained notebooks (each in its own folder). Belo
 * **Data cleaning & preprocessing**
 * **Feature engineering & correlation analysis**
 * **Insight-focused summaries**
-
+* **Excel (PivotTables, Dashboard Design)**
