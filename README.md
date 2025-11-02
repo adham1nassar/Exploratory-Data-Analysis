@@ -2,7 +2,7 @@
 
 This repo contains three self-contained notebooks (each in its own folder). Below are the **main features** covered in each analysis.
 
-## 1) Titanic — Exploratory Data Analysis
+## 1) Titanic — Exploratory Data Analysis [🔗](/exploratory-data-analysis-on-the-titanic-dataset)
 
 * Cleaned dataset and handled missing values for key columns.
 * Explored **survival relationships** by:
@@ -14,7 +14,7 @@ This repo contains three self-contained notebooks (each in its own folder). Belo
 * Built clear visuals (bar charts, histograms) to compare survival rates across groups.
 * Summarized takeaways as simple, decision-oriented insights.
 
-## 2) House Prices — Cleaning & Analysis
+## 2) House Prices — Cleaning & Analysis [🔗](/house-prices-cleaning-and-analysis)
 
 * Performed **systematic missing-value treatment** (numeric & categorical).
 * Checked distributions and noted near-normal variables where relevant.
@@ -22,7 +22,7 @@ This repo contains three self-contained notebooks (each in its own folder). Belo
 * Computed correlations with **SalePrice** and visualized them (heatmap + interactive view).
 * Highlighted the strongest numeric drivers of price with concise commentary.
 
-## 3) Uber Trip Data — Exploratory Data Analysis
+## 3) Uber Trip Data — Exploratory Data Analysis[🔗](/exploratory-data-analysis-on-uber-trip-data)
 
 * Cleaned raw trip records and standardized datatypes (timestamps, numerics).
 * Extracted time features (hour/day/month) to analyze **demand patterns**.
@@ -31,7 +31,7 @@ This repo contains three self-contained notebooks (each in its own folder). Belo
 * Provided a compact, data-driven overview of usage behavior.
 
 
-## 4) Employee Attrition Analysis — Data Cleaning, EDA & Excel Dashboard
+## 4) Employee Attrition Analysis — Data Cleaning, EDA & Excel Dashboard [🔗](/exploratory-data-analysis-HR-dataset)
 
 * Performed **comprehensive data cleaning**, removing redundant and calculated fields to simplify HR data.
 * Converted key categorical fields (e.g., `Attrition`, `Age`, `JobRole`) into consistent formats for analysis.
